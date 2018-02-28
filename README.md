@@ -5,7 +5,7 @@
 这个项目本人会长期维护，也欢迎大家积极提issues。
 
 # 动图展示
-![image](https://github.com/SYLuffy/FOTextLayout/master/screenCapture.gif)
+![image](https://github.com/SYLuffy/FOTextLayout/blob/master/screenCapture.gif)
 
 ## 安装
 暂时没有放到pods上面，所以只需要把工程里面的 FOText文件夹 拖到你的工程里面就行了。
