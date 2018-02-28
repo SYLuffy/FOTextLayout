@@ -51,7 +51,7 @@ typedef NS_ENUM(NSInteger,FOTextAlignment) {
 在你实际的使用中，你可以对FOTextView进行自定义。
 
 ## 参考项目
-此文字排版库，参考了YYText里关于文字排版的部分代码，也做了一些代码引用，特别感谢YYText的作者 
+此文字排版库，参考了YYText里关于文字排版的部分代码，特别感谢YYText的作者 
 [YYText](https://github.com/ibireme/YYText)
 
 ## License
