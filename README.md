@@ -8,7 +8,10 @@
 ![image](https://github.com/SYLuffy/FOTextLayout/blob/master/screenCapture.gif)
 
 ## 安装
-暂时没有放到pods上面，所以只需要把工程里面的 FOText文件夹 拖到你的工程里面就行了。
+
+使用cocoapods的方式       pod 'FOTextLayout', '~> 0.0.1'
+
+也可以把demo工程里面的 FOText文件夹 拖到你的工程里面。
 
 ## 使用方法
 你可以直接使用文件夹里的FOTextView这个控件，利用富文本，构造好一个NSAttributedString对象传入进去就行了。
