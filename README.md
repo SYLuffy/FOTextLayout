@@ -9,7 +9,11 @@
 
 ## 安装
 
-使用cocoapods的方式       pod 'FOTextLayout', '~> 0.0.1'
+使用cocoapods的方式 
+
+``` pods
+ pod 'FOTextLayout', '~> 0.0.1'
+ ```
 
 也可以把demo工程里面的 FOText文件夹 拖到你的工程里面。
 
